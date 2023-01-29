@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+itec4020-a2-movies-students-BE/node_modules
+itec4020-a2-movies-students-FE/node_modules
+itec4020-a2-movies-students-FE/.pnp
+itec4020-a2-movies-students-FE/.pnp.js
+/itec4020-a2-movies-students-FE/bower_components
+# testing
+itec4020-a2-movies-students-FE/coverage
+
+# production
+itec4020-a2-movies-students-FE/build
+
+# misc
+itec4020-a2-movies-students-FE/.DS_Store
+itec4020-a2-movies-students-FE/.env.local
+itec4020-a2-movies-students-FE/.env.development.local
+itec4020-a2-movies-students-FE/.env.test.local
+itec4020-a2-movies-students-FE/.env.production.local
+
+itec4020-a2-movies-students-FE/npm-debug.log*
+itec4020-a2-movies-students-FE/yarn-debug.log*
+itec4020-a2-movies-students-FE/yarn-error.log*
+
+
+itec4020-a2-movies-students-BE/dataset/*.csv
+itec4020-a2-movies-students-BE/submission/*
+itec4020-a2-movies-students-BEsubmission.zip
+itec4020-a2-movies-students-BE/.env
