@@ -1,6 +1,0 @@
-[submodule "itec4020-a2-movies-students-BE"]
-	path = itec4020-a2-movies-students-BE
-	url = https://github.com/hieuvu99/FullStackProject.git
-[submodule "itec4020-a2-movies-students-FE"]
-	path = itec4020-a2-movies-students-FE
-	url = https://github.com/hieuvu99/FullStackProject.git
